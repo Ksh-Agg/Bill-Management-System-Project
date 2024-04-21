@@ -7,4 +7,5 @@ It is based on the topic of file handling in Python. In total 5 different functi
 3.	Searching on the basis of code
 4.	Modify a record on the basis of Itemcode
 5.	Deletion of a record on the basis of Itemcode
+
 Measures have been already taken for invalid entries in the code.
